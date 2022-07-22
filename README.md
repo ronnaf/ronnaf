@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **ronnaf/ronnaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![hi](https://user-images.githubusercontent.com/32459751/180337344-0eb9f511-06c2-4f15-a4f5-2a7c65a594d6.gif)
